@@ -8,3 +8,13 @@
     box-sizing: border-box;
     background-color: var(--background-color);
 }
+
+header{
+    margin: 0;
+    padding: 20px;
+    width: 100vw;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    
+}
