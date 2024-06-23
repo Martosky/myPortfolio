@@ -1,5 +1,6 @@
 :root{
     --background-color: rgb(15, 14, 41);
+    --text-color: white
 }
 
 *{
@@ -7,6 +8,7 @@
     padding: 0;
     box-sizing: border-box;
     background-color: var(--background-color);
+    color: var(--text-color)
 }
 
 header{
@@ -16,5 +18,7 @@ header{
     color: white;
     display: flex;
     flex-direction: row;
-    
+    justify-content: space-between;
+    align-items: center;
 }
+    
