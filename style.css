@@ -15,7 +15,7 @@ header{
     margin: 0;
     padding: 20px;
     width: 100vw;
-    background-color: red;
+    background-color: rgb(196, 193, 193, 0.4);
     color: white;
     display: flex;
     flex-direction: row;
@@ -23,6 +23,7 @@ header{
     align-items: center;
     
 }
+ 
 
 .hero{
     width: 80%;
