@@ -10,9 +10,10 @@
 header{
     margin: 0;
     padding: 20px;
-    width: 100vw;
+    width: 95vw;
+    margin: 10px auto;
+    border-radius:20px;
     background-color: rgb(196, 193, 193, 0.4);
-    color: white;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
