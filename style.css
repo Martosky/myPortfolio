@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color: white;
  
 }
 .main{
@@ -9,7 +10,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     padding: 20px 0;
-    
+    height: 100vh;
 }
 
 header{
@@ -46,4 +47,19 @@ header a{
 .right-hero{
     width: 50%;
     padding: 20px;
+}
+.img-container{
+    width: 120px;
+    height: 120px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+.sec-2{
+    display: flex;
+    flex-direction: row;
+}
+.about-sec{
+    width: 40%;
+    margin: 10px 20px;
+
 }
