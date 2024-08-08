@@ -54,7 +54,7 @@ header a{
 .img-container{
     width: 300px;
     height: 300px;
-    border: 1px solid white;
+    
     border-radius: 50%;
     overflow: hidden;
 }
