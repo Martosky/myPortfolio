@@ -34,7 +34,7 @@ header a{
     cursor: pointer;
 }
 
-.hero{
+.sec-1{
     width: 80%;
     margin: 0 auto;
     display: flex;
@@ -70,4 +70,14 @@ header a{
     width: 40%;
     margin: 10px 20px;
 
+}
+
+.sec-3{
+    margin: 10px 0;
+    padding: 20px;
+}
+
+.sec-3 h2{
+    text-align: center;
+    margin-top: 20px;
 }
