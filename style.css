@@ -32,20 +32,21 @@ header a{
     color: white;
     cursor: pointer;
 }
-.sec-1-wrapper{
-    width: 100wh;
-    height: 50%;
-}
 
 .sec-1{
     width: 100vw;
     height: 100vh;
     margin: 0;
-    background-image: url(portfolio.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
-    object-fit: fill;
+    
 }
+.sec-1-bg{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    
+}
+
 .hero{
     width: 50%;
     padding: 20px;
